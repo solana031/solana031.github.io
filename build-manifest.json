@@ -5,5 +5,108 @@
   "en": 11,
   "assets": 22,
   "pages": 41,
-  "backend_required": false
+  "backend_required": false,
+  "schema": 1,
+  "source_revision": "2ecd60990fa1bd5c8d0701cc6c57c952cc0656c945fecaa8944126a7860ed218",
+  "source_commit": "3428b5bbf9ba53f8cc3728968469e11bc8cfc8af",
+  "primary_status": "PRIMARY_PUBLISHED",
+  "published_articles_count": 11,
+  "request_nonce": "",
+  "articles": [
+    {
+      "id": "automaton",
+      "revision": "c066b766cab1351ef3a3d20c9ba80a21fb87e7959a5afa7afed841acabfca915",
+      "es": "/es/repositorios/automaton/",
+      "en": "/en/repositories/automaton/"
+    },
+    {
+      "id": "bland-ai-claude-code-agent-phone-plan",
+      "revision": "49cc588f5195fb1e04b1a7e3688ed1beea94c394b210baef393a00a4f03688f6",
+      "es": "/es/repositorios/bland-ai-claude-code-agent-phone-plan/",
+      "en": "/en/repositories/bland-ai-claude-code-agent-phone-plan/"
+    },
+    {
+      "id": "calesthio-openmontage",
+      "revision": "f198aa7f6bdcbf34366ca624fcedf2ea57b0292c9b5aacd73682baec7cff6e25",
+      "es": "/es/repositorios/calesthio-openmontage/",
+      "en": "/en/repositories/calesthio-openmontage/"
+    },
+    {
+      "id": "fastapi",
+      "revision": "5cfcc0dd3e8fb797aa8c4d1f67097945edf7b2850978bacf79410e64448d2553",
+      "es": "/es/repositorios/fastapi/",
+      "en": "/en/repositories/fastapi/"
+    },
+    {
+      "id": "harry0703-moneyprinterturbo",
+      "revision": "170622f98772f2dda756c550c473b304261536265ac76630df81b8d76bf589cf",
+      "es": "/es/repositorios/harry0703-moneyprinterturbo/",
+      "en": "/en/repositories/harry0703-moneyprinterturbo/"
+    },
+    {
+      "id": "immortaldemongod-money-agent",
+      "revision": "4f6303b7ec6a69d782012706eb67823756faadfd47c4676d7bbea389af6b127b",
+      "es": "/es/repositorios/immortaldemongod-money-agent/",
+      "en": "/en/repositories/immortaldemongod-money-agent/"
+    },
+    {
+      "id": "kaomei-stickman-video-director",
+      "revision": "908a624487d97883350a47e2147f96c09a2d8c1d1c034da3f7645f4fd90f93db",
+      "es": "/es/repositorios/kaomei-stickman-video-director/",
+      "en": "/en/repositories/kaomei-stickman-video-director/"
+    },
+    {
+      "id": "morluto-rea",
+      "revision": "ecb8690052931b9f05b2fc60d1237c2eb9765f5faf10ea18cbf2b845405f04e2",
+      "es": "/es/repositorios/morluto-rea/",
+      "en": "/en/repositories/morluto-rea/"
+    },
+    {
+      "id": "playwright",
+      "revision": "deb236606a870c4eedc4f41be9d8841f23cef7c39b022c3554568c65ea2c9439",
+      "es": "/es/repositorios/playwright/",
+      "en": "/en/repositories/playwright/"
+    },
+    {
+      "id": "uv",
+      "revision": "d0589259e9e7b2c764ed9e0c0ca5dc4cf7f11a7c47f59f75312d99726d8a1f34",
+      "es": "/es/repositorios/uv/",
+      "en": "/en/repositories/uv/"
+    },
+    {
+      "id": "world-monitor-free-geopolitical-intelligence-dashboard",
+      "revision": "5b08533ab4bce3fa0d8edc04b2fa2e3607af228776f19536b059ba87eda47a12",
+      "es": "/es/repositorios/world-monitor-free-geopolitical-intelligence-dashboard/",
+      "en": "/en/repositories/world-monitor-free-geopolitical-intelligence-dashboard/"
+    }
+  ],
+  "mirror_policy": "noindex,follow",
+  "last_static_build": "2026-10-19T20:31:11.653084+00:00",
+  "last_static_deploy": "2026-10-19T20:31:11.653084+00:00",
+  "deploy_status": "DEPLOYED",
+  "run_id": "39319884165",
+  "asset_paths": [
+    "/media/reposnews/automaton-editorial.svg",
+    "/media/reposnews/editorial.css",
+    "/media/reposnews/fastapi-official.png",
+    "/media/reposnews/fastapi.png",
+    "/media/reposnews/favicon.svg",
+    "/media/reposnews/home.png",
+    "/media/reposnews/playwright-official.svg",
+    "/media/reposnews/playwright.png",
+    "/media/reposnews/source-1bf41f18ba73fb542bd180f2.png",
+    "/media/reposnews/source-1ec2fe253f2d435bfa700ed4.png",
+    "/media/reposnews/source-2eb35f5f28a171a18763e178.png",
+    "/media/reposnews/source-4a74201cd009b1959edd2184.png",
+    "/media/reposnews/source-7ce4829e6b3a7aecb0feec7b.png",
+    "/media/reposnews/source-ba912fcf6b72a4c5f57f3e8f.png",
+    "/media/reposnews/source-d16931f8fe989b6694d5795c.png",
+    "/media/reposnews/source-d83271b96df4cbb420f485f3.png",
+    "/media/reposnews/source-d8f027965b778944656d1c63.png",
+    "/media/reposnews/source-ef43be397d135c4e19a14057.png",
+    "/media/reposnews/source-f18efb36d6d4bc47342015a2.png",
+    "/media/reposnews/source-f62db54f0f1b0e1d8eed0edf.png",
+    "/media/reposnews/uv-official.svg",
+    "/media/reposnews/uv.png"
+  ]
 }
