@@ -1,18 +1,18 @@
 {
   "status": "STATIC_HOST_READY",
-  "published_articles": 14,
-  "es": 14,
-  "en": 14,
-  "assets": 33,
-  "pages": 47,
+  "published_articles": 15,
+  "es": 15,
+  "en": 15,
+  "assets": 35,
+  "pages": 49,
   "backend_required": false,
   "schema": 1,
-  "source_revision": "1392d0b396e8fdc44bf40203eb0082aca8274884e5be03c3ac359d135b28e6f3",
-  "source_commit": "cd7b669c2082c61fa4fa351a310be18fb6c50f95",
+  "source_revision": "3d1e4d6de3d15153c8cabfe463cc8d1531c46497790933fb145e4c922d059e2e",
+  "source_commit": "cf23bce127a3780696f2671582c731434cec5533",
   "primary_status": "PRIMARY_PUBLISHED",
-  "published_articles_count": 14,
+  "published_articles_count": 15,
   "request_nonce": "acea2ddc9623023db279e2b5",
-  "source_hash": "1392d0b396e8fdc44bf40203eb0082aca8274884e5be03c3ac359d135b28e6f3",
+  "source_hash": "3d1e4d6de3d15153c8cabfe463cc8d1531c46497790933fb145e4c922d059e2e",
   "articles": [
     {
       "id": "automaton",
@@ -43,6 +43,12 @@
       "revision": "5cfcc0dd3e8fb797aa8c4d1f67097945edf7b2850978bacf79410e64448d2553",
       "es": "/es/repositorios/fastapi/",
       "en": "/en/repositories/fastapi/"
+    },
+    {
+      "id": "genex-games-genex-desktop",
+      "revision": "2efa299ebc630e219ee966bcbda2d9f04139638ba4375a87ce0c3d79162987f5",
+      "es": "/es/repositorios/genex-games-genex-desktop/",
+      "en": "/en/repositories/genex-games-genex-desktop/"
     },
     {
       "id": "harry0703-moneyprinterturbo",
@@ -100,12 +106,14 @@
     }
   ],
   "mirror_policy": "noindex,follow",
-  "last_static_build": "2026-10-25T03:04:31.014698+00:00",
-  "last_static_deploy": "2026-10-25T03:04:31.014698+00:00",
+  "last_static_build": "2026-10-25T18:32:06.380354+00:00",
+  "last_static_deploy": "2026-10-25T18:32:06.380354+00:00",
   "deploy_status": "DEPLOYED",
-  "run_id": "40156815108",
+  "run_id": "40221655763",
   "asset_paths": [
     "/media/reposnews/automaton-editorial.svg",
+    "/media/reposnews/cover-1f0104224074bbf8885c95ce-sm.webp",
+    "/media/reposnews/cover-1f0104224074bbf8885c95ce.png",
     "/media/reposnews/cover-3e6147dff3c8fd716e9f6dc8-sm.webp",
     "/media/reposnews/cover-3e6147dff3c8fd716e9f6dc8.png",
     "/media/reposnews/cover-72507dc6c6ac0e932e9633d7-sm.webp",
