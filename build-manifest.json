@@ -1,17 +1,18 @@
 {
   "status": "STATIC_HOST_READY",
-  "published_articles": 11,
-  "es": 11,
-  "en": 11,
-  "assets": 22,
-  "pages": 41,
+  "published_articles": 14,
+  "es": 14,
+  "en": 14,
+  "assets": 33,
+  "pages": 47,
   "backend_required": false,
   "schema": 1,
-  "source_revision": "2ecd60990fa1bd5c8d0701cc6c57c952cc0656c945fecaa8944126a7860ed218",
-  "source_commit": "3428b5bbf9ba53f8cc3728968469e11bc8cfc8af",
+  "source_revision": "1392d0b396e8fdc44bf40203eb0082aca8274884e5be03c3ac359d135b28e6f3",
+  "source_commit": "cd7b669c2082c61fa4fa351a310be18fb6c50f95",
   "primary_status": "PRIMARY_PUBLISHED",
-  "published_articles_count": 11,
-  "request_nonce": "53ccae74bc0b1bc19ee67924",
+  "published_articles_count": 14,
+  "request_nonce": "acea2ddc9623023db279e2b5",
+  "source_hash": "1392d0b396e8fdc44bf40203eb0082aca8274884e5be03c3ac359d135b28e6f3",
   "articles": [
     {
       "id": "automaton",
@@ -21,15 +22,21 @@
     },
     {
       "id": "bland-ai-claude-code-agent-phone-plan",
-      "revision": "49cc588f5195fb1e04b1a7e3688ed1beea94c394b210baef393a00a4f03688f6",
+      "revision": "37e198b8d9b535a18f6f01f3b836596d8c95fb8a51a0f138edcd3d2bcefda024",
       "es": "/es/repositorios/bland-ai-claude-code-agent-phone-plan/",
       "en": "/en/repositories/bland-ai-claude-code-agent-phone-plan/"
     },
     {
       "id": "calesthio-openmontage",
-      "revision": "f198aa7f6bdcbf34366ca624fcedf2ea57b0292c9b5aacd73682baec7cff6e25",
+      "revision": "ab3ab87236b3363bbd2545f24ce3e69bbcebfc3cc9131fe36e93a657f61e96c9",
       "es": "/es/repositorios/calesthio-openmontage/",
       "en": "/en/repositories/calesthio-openmontage/"
+    },
+    {
+      "id": "dramaclaw",
+      "revision": "97991dc5b55990030ff0e3a75f36529edffb149f2cefe35e0e1fe851b478531a",
+      "es": "/es/repositorios/dramaclaw/",
+      "en": "/en/repositories/dramaclaw/"
     },
     {
       "id": "fastapi",
@@ -39,7 +46,7 @@
     },
     {
       "id": "harry0703-moneyprinterturbo",
-      "revision": "170622f98772f2dda756c550c473b304261536265ac76630df81b8d76bf589cf",
+      "revision": "738417f9a3998d4f65e2b5c53719a7a9b1af1510f63493009078b2d1375b6f0b",
       "es": "/es/repositorios/harry0703-moneyprinterturbo/",
       "en": "/en/repositories/harry0703-moneyprinterturbo/"
     },
@@ -48,6 +55,18 @@
       "revision": "4f6303b7ec6a69d782012706eb67823756faadfd47c4676d7bbea389af6b127b",
       "es": "/es/repositorios/immortaldemongod-money-agent/",
       "en": "/en/repositories/immortaldemongod-money-agent/"
+    },
+    {
+      "id": "jakeschincariol-youtube-agent-skill",
+      "revision": "c8cbe5f4e36aa6de0c1cd634e95324b2724fa2dadde2c7621007cda162eff035",
+      "es": "/es/repositorios/jakeschincariol-youtube-agent-skill/",
+      "en": "/en/repositories/jakeschincariol-youtube-agent-skill/"
+    },
+    {
+      "id": "jev",
+      "revision": "d7ea912ddbb4b549c717031f2d71d9d9556ca96b9a1c05caca0865a4ded2be6b",
+      "es": "/es/repositorios/jev/",
+      "en": "/en/repositories/jev/"
     },
     {
       "id": "kaomei-stickman-video-director",
@@ -81,24 +100,35 @@
     }
   ],
   "mirror_policy": "noindex,follow",
-  "last_static_build": "2026-10-19T20:39:43.227425+00:00",
-  "last_static_deploy": "2026-10-19T20:39:43.227425+00:00",
+  "last_static_build": "2026-10-25T03:04:31.014698+00:00",
+  "last_static_deploy": "2026-10-25T03:04:31.014698+00:00",
   "deploy_status": "DEPLOYED",
-  "run_id": "39321101454",
+  "run_id": "40156815108",
   "asset_paths": [
     "/media/reposnews/automaton-editorial.svg",
+    "/media/reposnews/cover-3e6147dff3c8fd716e9f6dc8-sm.webp",
+    "/media/reposnews/cover-3e6147dff3c8fd716e9f6dc8.png",
+    "/media/reposnews/cover-72507dc6c6ac0e932e9633d7-sm.webp",
+    "/media/reposnews/cover-72507dc6c6ac0e932e9633d7.png",
+    "/media/reposnews/cover-aa0d05056f345c66c44ad4c4-sm.webp",
+    "/media/reposnews/cover-aa0d05056f345c66c44ad4c4.png",
+    "/media/reposnews/dramaclaw-official.png",
     "/media/reposnews/editorial.css",
     "/media/reposnews/fastapi-official.png",
     "/media/reposnews/fastapi.png",
     "/media/reposnews/favicon.svg",
     "/media/reposnews/home.png",
+    "/media/reposnews/jev-editorial.svg",
     "/media/reposnews/playwright-official.svg",
     "/media/reposnews/playwright.png",
     "/media/reposnews/source-1bf41f18ba73fb542bd180f2.png",
+    "/media/reposnews/source-1db5922f4fc1439fb6280210.png",
     "/media/reposnews/source-1ec2fe253f2d435bfa700ed4.png",
     "/media/reposnews/source-2eb35f5f28a171a18763e178.png",
     "/media/reposnews/source-4a74201cd009b1959edd2184.png",
+    "/media/reposnews/source-78e5b6a7ab2c9eeb0569a04d.png",
     "/media/reposnews/source-7ce4829e6b3a7aecb0feec7b.png",
+    "/media/reposnews/source-9bd7fe3810ff9344d9029021.png",
     "/media/reposnews/source-ba912fcf6b72a4c5f57f3e8f.png",
     "/media/reposnews/source-d16931f8fe989b6694d5795c.png",
     "/media/reposnews/source-d83271b96df4cbb420f485f3.png",
