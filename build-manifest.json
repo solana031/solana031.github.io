@@ -1,19 +1,25 @@
 {
   "status": "STATIC_HOST_READY",
-  "published_articles": 15,
-  "es": 15,
-  "en": 15,
-  "assets": 35,
-  "pages": 49,
+  "published_articles": 24,
+  "es": 24,
+  "en": 24,
+  "assets": 33,
+  "pages": 65,
   "backend_required": false,
   "schema": 1,
-  "source_revision": "3d1e4d6de3d15153c8cabfe463cc8d1531c46497790933fb145e4c922d059e2e",
-  "source_commit": "cf23bce127a3780696f2671582c731434cec5533",
+  "source_revision": "ea4ec716b541bdd64ed8743a60bdda068d2f3c63d5f21ae2f4711ed517f3b993",
+  "source_commit": "b2a4e1225de565f669320bffb5e2f906c7cfa18d",
   "primary_status": "PRIMARY_PUBLISHED",
-  "published_articles_count": 15,
+  "published_articles_count": 24,
   "request_nonce": "acea2ddc9623023db279e2b5",
-  "source_hash": "3d1e4d6de3d15153c8cabfe463cc8d1531c46497790933fb145e4c922d059e2e",
+  "source_hash": "ea4ec716b541bdd64ed8743a60bdda068d2f3c63d5f21ae2f4711ed517f3b993",
   "articles": [
+    {
+      "id": "anomalyco-opencode",
+      "revision": "86a7494576fabf83aa82095e0b565d2a2268c1645303b0381a2c0969e636c517",
+      "es": "/es/repositorios/anomalyco-opencode/",
+      "en": "/en/repositories/anomalyco-opencode/"
+    },
     {
       "id": "automaton",
       "revision": "c066b766cab1351ef3a3d20c9ba80a21fb87e7959a5afa7afed841acabfca915",
@@ -28,9 +34,21 @@
     },
     {
       "id": "calesthio-openmontage",
-      "revision": "ab3ab87236b3363bbd2545f24ce3e69bbcebfc3cc9131fe36e93a657f61e96c9",
+      "revision": "cb5e00d39917de32aa2329424eaa1756666173cacb0fb94b32ac785ede56823e",
       "es": "/es/repositorios/calesthio-openmontage/",
       "en": "/en/repositories/calesthio-openmontage/"
+    },
+    {
+      "id": "clone-any-viral-video-with-ai-agents-open-source",
+      "revision": "32365233cf101ca18edbd8322282c643d7b91a832f0c5d98ac80ea60472bed9c",
+      "es": "/es/repositorios/clone-any-viral-video-with-ai-agents-open-source/",
+      "en": "/en/repositories/clone-any-viral-video-with-ai-agents-open-source/"
+    },
+    {
+      "id": "digitalplatdev-freedomain",
+      "revision": "aa91400ebc62536f1a4eb95898e320613c29c04cb37c395131eb3f92df7224a9",
+      "es": "/es/repositorios/digitalplatdev-freedomain/",
+      "en": "/en/repositories/digitalplatdev-freedomain/"
     },
     {
       "id": "dramaclaw",
@@ -39,10 +57,22 @@
       "en": "/en/repositories/dramaclaw/"
     },
     {
+      "id": "edenfunf-reelmimic",
+      "revision": "0bb615d4f0b50c8a6b08a4ce075322faf31779a8af6659b1964184393c505e3d",
+      "es": "/es/repositorios/edenfunf-reelmimic/",
+      "en": "/en/repositories/edenfunf-reelmimic/"
+    },
+    {
       "id": "fastapi",
       "revision": "5cfcc0dd3e8fb797aa8c4d1f67097945edf7b2850978bacf79410e64448d2553",
       "es": "/es/repositorios/fastapi/",
       "en": "/en/repositories/fastapi/"
+    },
+    {
+      "id": "fujiwarachoki-supoclip",
+      "revision": "1296bdaccd3dd38d7984ee30d14968a85c1bbd4a2771a6272add80462d09c830",
+      "es": "/es/repositorios/fujiwarachoki-supoclip/",
+      "en": "/en/repositories/fujiwarachoki-supoclip/"
     },
     {
       "id": "genex-games-genex-desktop",
@@ -51,10 +81,22 @@
       "en": "/en/repositories/genex-games-genex-desktop/"
     },
     {
+      "id": "gitroomhq-postiz-app",
+      "revision": "b14cc71a5aec416552a0bae2005808df01028f7f113e52b61ebfb927aa386a7f",
+      "es": "/es/repositorios/gitroomhq-postiz-app/",
+      "en": "/en/repositories/gitroomhq-postiz-app/"
+    },
+    {
       "id": "harry0703-moneyprinterturbo",
       "revision": "738417f9a3998d4f65e2b5c53719a7a9b1af1510f63493009078b2d1375b6f0b",
       "es": "/es/repositorios/harry0703-moneyprinterturbo/",
       "en": "/en/repositories/harry0703-moneyprinterturbo/"
+    },
+    {
+      "id": "hkuds-ai-trader",
+      "revision": "ffc554d07ecd506a2b436bad60605bec0ff7935f59056e4c5c818b26e0430c87",
+      "es": "/es/repositorios/hkuds-ai-trader/",
+      "en": "/en/repositories/hkuds-ai-trader/"
     },
     {
       "id": "immortaldemongod-money-agent",
@@ -82,7 +124,7 @@
     },
     {
       "id": "morluto-rea",
-      "revision": "ecb8690052931b9f05b2fc60d1237c2eb9765f5faf10ea18cbf2b845405f04e2",
+      "revision": "07ae44fe4210b369f1784b2d5034eba55fa5d97f166cb900d86dfa754a7b7295",
       "es": "/es/repositorios/morluto-rea/",
       "en": "/en/repositories/morluto-rea/"
     },
@@ -91,6 +133,12 @@
       "revision": "deb236606a870c4eedc4f41be9d8841f23cef7c39b022c3554568c65ea2c9439",
       "es": "/es/repositorios/playwright/",
       "en": "/en/repositories/playwright/"
+    },
+    {
+      "id": "remotion",
+      "revision": "0c3ac441b0c379c790b0206b90fc9f51bbd5e26d020931695281d441cb94f94d",
+      "es": "/es/repositorios/remotion/",
+      "en": "/en/repositories/remotion/"
     },
     {
       "id": "uv",
@@ -103,24 +151,43 @@
       "revision": "5b08533ab4bce3fa0d8edc04b2fa2e3607af228776f19536b059ba87eda47a12",
       "es": "/es/repositorios/world-monitor-free-geopolitical-intelligence-dashboard/",
       "en": "/en/repositories/world-monitor-free-geopolitical-intelligence-dashboard/"
+    },
+    {
+      "id": "yihui-dev-awesome-opus5-5-videos",
+      "revision": "6c00af97c91b064b67124efd3ce7049a07903ac2b30e7d963b8b5fee6ff6c95d",
+      "es": "/es/repositorios/yihui-dev-awesome-opus5-5-videos/",
+      "en": "/en/repositories/yihui-dev-awesome-opus5-5-videos/"
     }
   ],
   "mirror_policy": "noindex,follow",
-  "last_static_build": "2026-10-25T18:32:06.380354+00:00",
-  "last_static_deploy": "2026-10-25T18:32:06.380354+00:00",
+  "last_static_build": "2026-10-26T16:57:19.204634+00:00",
+  "last_static_deploy": "2026-10-26T16:57:19.204634+00:00",
   "deploy_status": "DEPLOYED",
-  "run_id": "40221655763",
+  "run_id": "40363185995",
   "asset_paths": [
     "/media/reposnews/automaton-editorial.svg",
     "/media/reposnews/cover-1f0104224074bbf8885c95ce-sm.webp",
     "/media/reposnews/cover-1f0104224074bbf8885c95ce.png",
-    "/media/reposnews/cover-3e6147dff3c8fd716e9f6dc8-sm.webp",
-    "/media/reposnews/cover-3e6147dff3c8fd716e9f6dc8.png",
-    "/media/reposnews/cover-72507dc6c6ac0e932e9633d7-sm.webp",
-    "/media/reposnews/cover-72507dc6c6ac0e932e9633d7.png",
+    "/media/reposnews/cover-739b00b813901d48e577a8c7-sm.webp",
+    "/media/reposnews/cover-739b00b813901d48e577a8c7.png",
     "/media/reposnews/cover-aa0d05056f345c66c44ad4c4-sm.webp",
     "/media/reposnews/cover-aa0d05056f345c66c44ad4c4.png",
     "/media/reposnews/dramaclaw-official.png",
+    "/media/reposnews/editorial-anomalyco-opencode.png",
+    "/media/reposnews/editorial-calesthio-openmontage.png",
+    "/media/reposnews/editorial-clone-any-viral-video-with-ai-agents-open-source.png",
+    "/media/reposnews/editorial-digitalplatdev-freedomain.png",
+    "/media/reposnews/editorial-edenfunf-reelmimic.png",
+    "/media/reposnews/editorial-fujiwarachoki-supoclip.png",
+    "/media/reposnews/editorial-gitroomhq-postiz-app.png",
+    "/media/reposnews/editorial-harry0703-moneyprinterturbo.png",
+    "/media/reposnews/editorial-hkuds-ai-trader.png",
+    "/media/reposnews/editorial-immortaldemongod-money-agent.png",
+    "/media/reposnews/editorial-jakeschincariol-youtube-agent-skill.png",
+    "/media/reposnews/editorial-kaomei-stickman-video-director.png",
+    "/media/reposnews/editorial-morluto-rea.png",
+    "/media/reposnews/editorial-world-monitor-free-geopolitical-intelligence-dashboard.png",
+    "/media/reposnews/editorial-yihui-dev-awesome-opus5-5-videos.png",
     "/media/reposnews/editorial.css",
     "/media/reposnews/fastapi-official.png",
     "/media/reposnews/fastapi.png",
@@ -129,21 +196,6 @@
     "/media/reposnews/jev-editorial.svg",
     "/media/reposnews/playwright-official.svg",
     "/media/reposnews/playwright.png",
-    "/media/reposnews/source-1bf41f18ba73fb542bd180f2.png",
-    "/media/reposnews/source-1db5922f4fc1439fb6280210.png",
-    "/media/reposnews/source-1ec2fe253f2d435bfa700ed4.png",
-    "/media/reposnews/source-2eb35f5f28a171a18763e178.png",
-    "/media/reposnews/source-4a74201cd009b1959edd2184.png",
-    "/media/reposnews/source-78e5b6a7ab2c9eeb0569a04d.png",
-    "/media/reposnews/source-7ce4829e6b3a7aecb0feec7b.png",
-    "/media/reposnews/source-9bd7fe3810ff9344d9029021.png",
-    "/media/reposnews/source-ba912fcf6b72a4c5f57f3e8f.png",
-    "/media/reposnews/source-d16931f8fe989b6694d5795c.png",
-    "/media/reposnews/source-d83271b96df4cbb420f485f3.png",
-    "/media/reposnews/source-d8f027965b778944656d1c63.png",
-    "/media/reposnews/source-ef43be397d135c4e19a14057.png",
-    "/media/reposnews/source-f18efb36d6d4bc47342015a2.png",
-    "/media/reposnews/source-f62db54f0f1b0e1d8eed0edf.png",
     "/media/reposnews/uv-official.svg",
     "/media/reposnews/uv.png"
   ]
