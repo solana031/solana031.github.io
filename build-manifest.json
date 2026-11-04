@@ -1,19 +1,25 @@
 {
   "status": "STATIC_HOST_READY",
-  "published_articles": 31,
-  "es": 31,
-  "en": 31,
-  "assets": 41,
-  "pages": 79,
+  "published_articles": 38,
+  "es": 38,
+  "en": 38,
+  "assets": 48,
+  "pages": 93,
   "backend_required": false,
   "schema": 1,
-  "source_revision": "6783095efb98454ef52204de4f4e367005f6d3e3c94db7f1b28e50356249b62d",
+  "source_revision": "d229a7682134d33d4d8b225490b6078d43f27a81499d4fd45ffe5e06839f03b9",
   "source_commit": "9b99164aca6f3c4e979cdb15186b0e1bfa208b35",
   "primary_status": "PRIMARY_PUBLISHED",
-  "published_articles_count": 31,
+  "published_articles_count": 38,
   "request_nonce": "acea2ddc9623023db279e2b5",
-  "source_hash": "6783095efb98454ef52204de4f4e367005f6d3e3c94db7f1b28e50356249b62d",
+  "source_hash": "d229a7682134d33d4d8b225490b6078d43f27a81499d4fd45ffe5e06839f03b9",
   "articles": [
+    {
+      "id": "affaan-m-ecc",
+      "revision": "f86fc22878c04ebb85c9b57372f2c4bf2ca9bd2b2620c886e81eb0a4f543b9e5",
+      "es": "/es/repositorios/affaan-m-ecc/",
+      "en": "/en/repositories/affaan-m-ecc/"
+    },
     {
       "id": "anomalyco-opencode",
       "revision": "86a7494576fabf83aa82095e0b565d2a2268c1645303b0381a2c0969e636c517",
@@ -39,10 +45,22 @@
       "en": "/en/repositories/bland-ai-claude-code-agent-phone-plan/"
     },
     {
+      "id": "blixvip-html-anime",
+      "revision": "8119e4253ea206566c5d9d2f100d7fe2a05802395f1a7e4b7769f4c3c8f6e27a",
+      "es": "/es/repositorios/blixvip-html-anime/",
+      "en": "/en/repositories/blixvip-html-anime/"
+    },
+    {
       "id": "calesthio-openmontage",
       "revision": "cb5e00d39917de32aa2329424eaa1756666173cacb0fb94b32ac785ede56823e",
       "es": "/es/repositorios/calesthio-openmontage/",
       "en": "/en/repositories/calesthio-openmontage/"
+    },
+    {
+      "id": "chatcut-inc-agent-plugin",
+      "revision": "93040a96fba426ee379e1e197e3a6cfa30624d667335e09f108ca705556aeb4c",
+      "es": "/es/repositorios/chatcut-inc-agent-plugin/",
+      "en": "/en/repositories/chatcut-inc-agent-plugin/"
     },
     {
       "id": "clone-any-viral-video-with-ai-agents-open-source",
@@ -61,6 +79,12 @@
       "revision": "40413befdd5ae448314eb359600aebf4b83c02a5bdd64efea527241e8d6dde34",
       "es": "/es/repositorios/debpalash-voicestudio/",
       "en": "/en/repositories/debpalash-voicestudio/"
+    },
+    {
+      "id": "deepseek-ai-deepseek-harness",
+      "revision": "31802a0b3553a2c19f77052b3a866ffaf36e0db6da496029663752d4117c9a8b",
+      "es": "/es/repositorios/deepseek-ai-deepseek-harness/",
+      "en": "/en/repositories/deepseek-ai-deepseek-harness/"
     },
     {
       "id": "digitalplatdev-freedomain",
@@ -123,6 +147,12 @@
       "en": "/en/repositories/harry0703-moneyprinterturbo/"
     },
     {
+      "id": "heygen-com-hyperframes",
+      "revision": "700cedf82c52b9e52b1a99b78ab640afac4c293dac2678224293b88335132717",
+      "es": "/es/repositorios/heygen-com-hyperframes/",
+      "en": "/en/repositories/heygen-com-hyperframes/"
+    },
+    {
       "id": "hkuds-ai-trader",
       "revision": "ffc554d07ecd506a2b436bad60605bec0ff7935f59056e4c5c818b26e0430c87",
       "es": "/es/repositorios/hkuds-ai-trader/",
@@ -171,6 +201,18 @@
       "en": "/en/repositories/morluto-rea/"
     },
     {
+      "id": "ndolestudio-httpsms",
+      "revision": "6419173a63cd24429b8fba8c61e74fb366bb5b27f9e81de22877442c5b150cd4",
+      "es": "/es/repositorios/ndolestudio-httpsms/",
+      "en": "/en/repositories/ndolestudio-httpsms/"
+    },
+    {
+      "id": "openclaw-openclaw",
+      "revision": "97c94a9331299ca50355d05a2c956acc7b4d3caaa53bf91c8af2c4394d2a69b5",
+      "es": "/es/repositorios/openclaw-openclaw/",
+      "en": "/en/repositories/openclaw-openclaw/"
+    },
+    {
       "id": "playwright",
       "revision": "deb236606a870c4eedc4f41be9d8841f23cef7c39b022c3554568c65ea2c9439",
       "es": "/es/repositorios/playwright/",
@@ -202,10 +244,10 @@
     }
   ],
   "mirror_policy": "noindex,follow",
-  "last_static_build": "2026-11-04T22:06:53.543625+00:00",
-  "last_static_deploy": "2026-11-04T22:06:53.543625+00:00",
+  "last_static_build": "2026-11-04T22:19:39.780760+00:00",
+  "last_static_deploy": "2026-11-04T22:19:39.780760+00:00",
   "deploy_status": "DEPLOYED",
-  "run_id": "41922115936",
+  "run_id": "41924038456",
   "asset_paths": [
     "/media/reposnews/automaton-editorial.svg",
     "/media/reposnews/cover-1f0104224074bbf8885c95ce-sm.webp",
@@ -217,18 +259,23 @@
     "/media/reposnews/cover-aa0d05056f345c66c44ad4c4-sm.webp",
     "/media/reposnews/cover-aa0d05056f345c66c44ad4c4.png",
     "/media/reposnews/dramaclaw-official.png",
+    "/media/reposnews/editorial-affaan-m-ecc.png",
     "/media/reposnews/editorial-anomalyco-opencode.png",
     "/media/reposnews/editorial-bangtutorial-bang-motion.png",
+    "/media/reposnews/editorial-blixvip-html-anime.png",
     "/media/reposnews/editorial-calesthio-openmontage.png",
+    "/media/reposnews/editorial-chatcut-inc-agent-plugin.png",
     "/media/reposnews/editorial-clone-any-viral-video-with-ai-agents-open-source.png",
     "/media/reposnews/editorial-cth9191-animate.png",
     "/media/reposnews/editorial-debpalash-voicestudio.png",
+    "/media/reposnews/editorial-deepseek-ai-deepseek-harness.png",
     "/media/reposnews/editorial-digitalplatdev-freedomain.png",
     "/media/reposnews/editorial-edenfunf-reelmimic.png",
     "/media/reposnews/editorial-fujiwarachoki-supoclip.png",
     "/media/reposnews/editorial-gamedev-skills-awesome-gamedev-agent-skills.png",
     "/media/reposnews/editorial-gitroomhq-postiz-app.png",
     "/media/reposnews/editorial-harry0703-moneyprinterturbo.png",
+    "/media/reposnews/editorial-heygen-com-hyperframes.png",
     "/media/reposnews/editorial-hkuds-ai-trader.png",
     "/media/reposnews/editorial-hypit-ai-hypit.png",
     "/media/reposnews/editorial-immortaldemongod-money-agent.png",
@@ -236,6 +283,8 @@
     "/media/reposnews/editorial-kaomei-stickman-video-director.png",
     "/media/reposnews/editorial-letuandat131-whiteboard-animation-vi.png",
     "/media/reposnews/editorial-morluto-rea.png",
+    "/media/reposnews/editorial-ndolestudio-httpsms.png",
+    "/media/reposnews/editorial-openclaw-openclaw.png",
     "/media/reposnews/editorial-world-monitor-free-geopolitical-intelligence-dashboard.png",
     "/media/reposnews/editorial-yihui-dev-awesome-opus5-5-videos.png",
     "/media/reposnews/editorial.css",
