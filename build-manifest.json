@@ -1,18 +1,18 @@
 {
   "status": "STATIC_HOST_READY",
-  "published_articles": 24,
-  "es": 24,
-  "en": 24,
-  "assets": 33,
-  "pages": 65,
+  "published_articles": 31,
+  "es": 31,
+  "en": 31,
+  "assets": 41,
+  "pages": 79,
   "backend_required": false,
   "schema": 1,
-  "source_revision": "ea4ec716b541bdd64ed8743a60bdda068d2f3c63d5f21ae2f4711ed517f3b993",
-  "source_commit": "b2a4e1225de565f669320bffb5e2f906c7cfa18d",
+  "source_revision": "6783095efb98454ef52204de4f4e367005f6d3e3c94db7f1b28e50356249b62d",
+  "source_commit": "9b99164aca6f3c4e979cdb15186b0e1bfa208b35",
   "primary_status": "PRIMARY_PUBLISHED",
-  "published_articles_count": 24,
+  "published_articles_count": 31,
   "request_nonce": "acea2ddc9623023db279e2b5",
-  "source_hash": "ea4ec716b541bdd64ed8743a60bdda068d2f3c63d5f21ae2f4711ed517f3b993",
+  "source_hash": "6783095efb98454ef52204de4f4e367005f6d3e3c94db7f1b28e50356249b62d",
   "articles": [
     {
       "id": "anomalyco-opencode",
@@ -25,6 +25,12 @@
       "revision": "c066b766cab1351ef3a3d20c9ba80a21fb87e7959a5afa7afed841acabfca915",
       "es": "/es/repositorios/automaton/",
       "en": "/en/repositories/automaton/"
+    },
+    {
+      "id": "bangtutorial-bang-motion",
+      "revision": "7cb02e26adced1aeb541fe37571ce522309e596b33d748c0a6efba05490ef3f3",
+      "es": "/es/repositorios/bangtutorial-bang-motion/",
+      "en": "/en/repositories/bangtutorial-bang-motion/"
     },
     {
       "id": "bland-ai-claude-code-agent-phone-plan",
@@ -43,6 +49,18 @@
       "revision": "32365233cf101ca18edbd8322282c643d7b91a832f0c5d98ac80ea60472bed9c",
       "es": "/es/repositorios/clone-any-viral-video-with-ai-agents-open-source/",
       "en": "/en/repositories/clone-any-viral-video-with-ai-agents-open-source/"
+    },
+    {
+      "id": "cth9191-animate",
+      "revision": "2fe60b31ea5a6f532a27d7edcfc22c35c4ea96e2c420f1892ff4baf62b032140",
+      "es": "/es/repositorios/cth9191-animate/",
+      "en": "/en/repositories/cth9191-animate/"
+    },
+    {
+      "id": "debpalash-voicestudio",
+      "revision": "40413befdd5ae448314eb359600aebf4b83c02a5bdd64efea527241e8d6dde34",
+      "es": "/es/repositorios/debpalash-voicestudio/",
+      "en": "/en/repositories/debpalash-voicestudio/"
     },
     {
       "id": "digitalplatdev-freedomain",
@@ -75,6 +93,18 @@
       "en": "/en/repositories/fujiwarachoki-supoclip/"
     },
     {
+      "id": "gamedev-skills-awesome-gamedev-agent-skills",
+      "revision": "698894d2bedfea40b10714f57d00c69c75a45efd061d6f2a2d3517585f1e0988",
+      "es": "/es/repositorios/gamedev-skills-awesome-gamedev-agent-skills/",
+      "en": "/en/repositories/gamedev-skills-awesome-gamedev-agent-skills/"
+    },
+    {
+      "id": "generative-ai-api-platform",
+      "revision": "845aec1ca1496a713dfe07666bccc050f651d9ce9db38c930b552b7d8725dcb1",
+      "es": "/es/repositorios/generative-ai-api-platform/",
+      "en": "/en/repositories/generative-ai-api-platform/"
+    },
+    {
       "id": "genex-games-genex-desktop",
       "revision": "2efa299ebc630e219ee966bcbda2d9f04139638ba4375a87ce0c3d79162987f5",
       "es": "/es/repositorios/genex-games-genex-desktop/",
@@ -99,6 +129,12 @@
       "en": "/en/repositories/hkuds-ai-trader/"
     },
     {
+      "id": "hypit-ai-hypit",
+      "revision": "47629e70eea9e8cd54c187b9fe77c22a24574d7229e0dc69d1a13b79a9ab7080",
+      "es": "/es/repositorios/hypit-ai-hypit/",
+      "en": "/en/repositories/hypit-ai-hypit/"
+    },
+    {
       "id": "immortaldemongod-money-agent",
       "revision": "4f6303b7ec6a69d782012706eb67823756faadfd47c4676d7bbea389af6b127b",
       "es": "/es/repositorios/immortaldemongod-money-agent/",
@@ -121,6 +157,12 @@
       "revision": "908a624487d97883350a47e2147f96c09a2d8c1d1c034da3f7645f4fd90f93db",
       "es": "/es/repositorios/kaomei-stickman-video-director/",
       "en": "/en/repositories/kaomei-stickman-video-director/"
+    },
+    {
+      "id": "letuandat131-whiteboard-animation-vi",
+      "revision": "4355edffc8868a52e033e143b881aabfde00de5923df8d69174ed32c891630cc",
+      "es": "/es/repositorios/letuandat131-whiteboard-animation-vi/",
+      "en": "/en/repositories/letuandat131-whiteboard-animation-vi/"
     },
     {
       "id": "morluto-rea",
@@ -160,31 +202,39 @@
     }
   ],
   "mirror_policy": "noindex,follow",
-  "last_static_build": "2026-10-26T16:57:19.204634+00:00",
-  "last_static_deploy": "2026-10-26T16:57:19.204634+00:00",
+  "last_static_build": "2026-11-04T22:06:53.543625+00:00",
+  "last_static_deploy": "2026-11-04T22:06:53.543625+00:00",
   "deploy_status": "DEPLOYED",
-  "run_id": "40363185995",
+  "run_id": "41922115936",
   "asset_paths": [
     "/media/reposnews/automaton-editorial.svg",
     "/media/reposnews/cover-1f0104224074bbf8885c95ce-sm.webp",
     "/media/reposnews/cover-1f0104224074bbf8885c95ce.png",
+    "/media/reposnews/cover-41a66454034d5b138beb0df4-sm.webp",
+    "/media/reposnews/cover-41a66454034d5b138beb0df4.png",
     "/media/reposnews/cover-739b00b813901d48e577a8c7-sm.webp",
     "/media/reposnews/cover-739b00b813901d48e577a8c7.png",
     "/media/reposnews/cover-aa0d05056f345c66c44ad4c4-sm.webp",
     "/media/reposnews/cover-aa0d05056f345c66c44ad4c4.png",
     "/media/reposnews/dramaclaw-official.png",
     "/media/reposnews/editorial-anomalyco-opencode.png",
+    "/media/reposnews/editorial-bangtutorial-bang-motion.png",
     "/media/reposnews/editorial-calesthio-openmontage.png",
     "/media/reposnews/editorial-clone-any-viral-video-with-ai-agents-open-source.png",
+    "/media/reposnews/editorial-cth9191-animate.png",
+    "/media/reposnews/editorial-debpalash-voicestudio.png",
     "/media/reposnews/editorial-digitalplatdev-freedomain.png",
     "/media/reposnews/editorial-edenfunf-reelmimic.png",
     "/media/reposnews/editorial-fujiwarachoki-supoclip.png",
+    "/media/reposnews/editorial-gamedev-skills-awesome-gamedev-agent-skills.png",
     "/media/reposnews/editorial-gitroomhq-postiz-app.png",
     "/media/reposnews/editorial-harry0703-moneyprinterturbo.png",
     "/media/reposnews/editorial-hkuds-ai-trader.png",
+    "/media/reposnews/editorial-hypit-ai-hypit.png",
     "/media/reposnews/editorial-immortaldemongod-money-agent.png",
     "/media/reposnews/editorial-jakeschincariol-youtube-agent-skill.png",
     "/media/reposnews/editorial-kaomei-stickman-video-director.png",
+    "/media/reposnews/editorial-letuandat131-whiteboard-animation-vi.png",
     "/media/reposnews/editorial-morluto-rea.png",
     "/media/reposnews/editorial-world-monitor-free-geopolitical-intelligence-dashboard.png",
     "/media/reposnews/editorial-yihui-dev-awesome-opus5-5-videos.png",
