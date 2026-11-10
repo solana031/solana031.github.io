@@ -1,19 +1,25 @@
 {
   "status": "STATIC_HOST_READY",
-  "published_articles": 40,
-  "es": 40,
-  "en": 40,
-  "assets": 51,
-  "pages": 97,
+  "published_articles": 45,
+  "es": 45,
+  "en": 45,
+  "assets": 56,
+  "pages": 107,
   "backend_required": false,
   "schema": 1,
-  "source_revision": "5c11b6da409524314a0ac861c0d5287efe639312ea7491dd0cb63e7d7716d8e0",
-  "source_commit": "5dc17b9ab72fa582e629a40c9bd16aaf2802cc51",
+  "source_revision": "a5ea96ed9613cf8334efe5884492a1ea6f9f461fd03d82a93a5edea7cd23ed47",
+  "source_commit": "b7ea01158d847d7260a37c2ae7e7c7268f883d45",
   "primary_status": "PRIMARY_PUBLISHED",
-  "published_articles_count": 40,
+  "published_articles_count": 45,
   "request_nonce": "acea2ddc9623023db279e2b5",
-  "source_hash": "5c11b6da409524314a0ac861c0d5287efe639312ea7491dd0cb63e7d7716d8e0",
+  "source_hash": "a5ea96ed9613cf8334efe5884492a1ea6f9f461fd03d82a93a5edea7cd23ed47",
   "articles": [
+    {
+      "id": "666ghj-mirofish",
+      "revision": "9d02503ce9034e4d812924d858f27a0482026b744ad3294c27f51c41c02c791f",
+      "es": "/es/repositorios/666ghj-mirofish/",
+      "en": "/en/repositories/666ghj-mirofish/"
+    },
     {
       "id": "affaan-m-ecc",
       "revision": "f86fc22878c04ebb85c9b57372f2c4bf2ca9bd2b2620c886e81eb0a4f543b9e5",
@@ -105,6 +111,12 @@
       "en": "/en/repositories/edenfunf-reelmimic/"
     },
     {
+      "id": "every-app-open-seo",
+      "revision": "f4eb5bfd95530339c3700112e3cefe392d0f515a74cd1ab0563be3eeedd61f73",
+      "es": "/es/repositorios/every-app-open-seo/",
+      "en": "/en/repositories/every-app-open-seo/"
+    },
+    {
       "id": "fastapi",
       "revision": "5cfcc0dd3e8fb797aa8c4d1f67097945edf7b2850978bacf79410e64448d2553",
       "es": "/es/repositorios/fastapi/",
@@ -165,6 +177,12 @@
       "en": "/en/repositories/hkuds-ai-trader/"
     },
     {
+      "id": "hkuds-cli-anything",
+      "revision": "19faf6f2edc5acd9c7131a73f99d78ac9f586a331c68461a6cc8a7a24ca254b0",
+      "es": "/es/repositorios/hkuds-cli-anything/",
+      "en": "/en/repositories/hkuds-cli-anything/"
+    },
+    {
       "id": "hypit-ai-hypit",
       "revision": "47629e70eea9e8cd54c187b9fe77c22a24574d7229e0dc69d1a13b79a9ab7080",
       "es": "/es/repositorios/hypit-ai-hypit/",
@@ -213,6 +231,12 @@
       "en": "/en/repositories/mromidev-claude-animated-shorts/"
     },
     {
+      "id": "mukul975-anthropic-cybersecurity-skills",
+      "revision": "d76b4fc86511c6f38519a96966045f02f786f8f40191588f284f38c9c4de59c1",
+      "es": "/es/repositorios/mukul975-anthropic-cybersecurity-skills/",
+      "en": "/en/repositories/mukul975-anthropic-cybersecurity-skills/"
+    },
+    {
       "id": "ndolestudio-httpsms",
       "revision": "6419173a63cd24429b8fba8c61e74fb366bb5b27f9e81de22877442c5b150cd4",
       "es": "/es/repositorios/ndolestudio-httpsms/",
@@ -237,6 +261,12 @@
       "en": "/en/repositories/remotion/"
     },
     {
+      "id": "slavingia-skills",
+      "revision": "6b64c4377c0eaa32f2f1fa04275ddf36ae5a996653f5514f82649b762c4d0d78",
+      "es": "/es/repositorios/slavingia-skills/",
+      "en": "/en/repositories/slavingia-skills/"
+    },
+    {
       "id": "uv",
       "revision": "d0589259e9e7b2c764ed9e0c0ca5dc4cf7f11a7c47f59f75312d99726d8a1f34",
       "es": "/es/repositorios/uv/",
@@ -256,10 +286,10 @@
     }
   ],
   "mirror_policy": "noindex,follow",
-  "last_static_build": "2026-11-10T22:38:59.005294+00:00",
-  "last_static_deploy": "2026-11-10T22:38:59.005294+00:00",
+  "last_static_build": "2026-11-10T23:35:46.314749+00:00",
+  "last_static_deploy": "2026-11-10T23:35:46.314749+00:00",
   "deploy_status": "DEPLOYED",
-  "run_id": "42916169216",
+  "run_id": "42924283660",
   "asset_paths": [
     "/media/reposnews/automaton-editorial.svg",
     "/media/reposnews/cover-182f6215a817eb491fbcce60-sm.webp",
@@ -273,6 +303,7 @@
     "/media/reposnews/cover-aa0d05056f345c66c44ad4c4-sm.webp",
     "/media/reposnews/cover-aa0d05056f345c66c44ad4c4.png",
     "/media/reposnews/dramaclaw-official.png",
+    "/media/reposnews/editorial-666ghj-mirofish.png",
     "/media/reposnews/editorial-affaan-m-ecc.png",
     "/media/reposnews/editorial-anomalyco-opencode.png",
     "/media/reposnews/editorial-bangtutorial-bang-motion.png",
@@ -285,12 +316,14 @@
     "/media/reposnews/editorial-deepseek-ai-deepseek-harness.png",
     "/media/reposnews/editorial-digitalplatdev-freedomain.png",
     "/media/reposnews/editorial-edenfunf-reelmimic.png",
+    "/media/reposnews/editorial-every-app-open-seo.png",
     "/media/reposnews/editorial-fujiwarachoki-supoclip.png",
     "/media/reposnews/editorial-gamedev-skills-awesome-gamedev-agent-skills.png",
     "/media/reposnews/editorial-gitroomhq-postiz-app.png",
     "/media/reposnews/editorial-harry0703-moneyprinterturbo.png",
     "/media/reposnews/editorial-heygen-com-hyperframes.png",
     "/media/reposnews/editorial-hkuds-ai-trader.png",
+    "/media/reposnews/editorial-hkuds-cli-anything.png",
     "/media/reposnews/editorial-hypit-ai-hypit.png",
     "/media/reposnews/editorial-immortaldemongod-money-agent.png",
     "/media/reposnews/editorial-jakeschincariol-youtube-agent-skill.png",
@@ -298,8 +331,10 @@
     "/media/reposnews/editorial-letuandat131-whiteboard-animation-vi.png",
     "/media/reposnews/editorial-morluto-rea.png",
     "/media/reposnews/editorial-mromidev-claude-animated-shorts.png",
+    "/media/reposnews/editorial-mukul975-anthropic-cybersecurity-skills.png",
     "/media/reposnews/editorial-ndolestudio-httpsms.png",
     "/media/reposnews/editorial-openclaw-openclaw.png",
+    "/media/reposnews/editorial-slavingia-skills.png",
     "/media/reposnews/editorial-world-monitor-free-geopolitical-intelligence-dashboard.png",
     "/media/reposnews/editorial-yihui-dev-awesome-opus5-5-videos.png",
     "/media/reposnews/editorial.css",
