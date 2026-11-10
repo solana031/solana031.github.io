@@ -1,18 +1,18 @@
 {
   "status": "STATIC_HOST_READY",
-  "published_articles": 38,
-  "es": 38,
-  "en": 38,
-  "assets": 48,
-  "pages": 93,
+  "published_articles": 39,
+  "es": 39,
+  "en": 39,
+  "assets": 49,
+  "pages": 95,
   "backend_required": false,
   "schema": 1,
-  "source_revision": "d229a7682134d33d4d8b225490b6078d43f27a81499d4fd45ffe5e06839f03b9",
-  "source_commit": "9b99164aca6f3c4e979cdb15186b0e1bfa208b35",
+  "source_revision": "c1719123a62872095c8793013aa3f0bd62304bcdca35afd5b30b8fe3f883211a",
+  "source_commit": "5dc17b9ab72fa582e629a40c9bd16aaf2802cc51",
   "primary_status": "PRIMARY_PUBLISHED",
-  "published_articles_count": 38,
+  "published_articles_count": 39,
   "request_nonce": "acea2ddc9623023db279e2b5",
-  "source_hash": "d229a7682134d33d4d8b225490b6078d43f27a81499d4fd45ffe5e06839f03b9",
+  "source_hash": "c1719123a62872095c8793013aa3f0bd62304bcdca35afd5b30b8fe3f883211a",
   "articles": [
     {
       "id": "affaan-m-ecc",
@@ -201,6 +201,12 @@
       "en": "/en/repositories/morluto-rea/"
     },
     {
+      "id": "mromidev-claude-animated-shorts",
+      "revision": "8011fef11145a72db07958ebfacd57ed1e49aa84f47b160fdd9995b55f7bc928",
+      "es": "/es/repositorios/mromidev-claude-animated-shorts/",
+      "en": "/en/repositories/mromidev-claude-animated-shorts/"
+    },
+    {
       "id": "ndolestudio-httpsms",
       "revision": "6419173a63cd24429b8fba8c61e74fb366bb5b27f9e81de22877442c5b150cd4",
       "es": "/es/repositorios/ndolestudio-httpsms/",
@@ -244,10 +250,10 @@
     }
   ],
   "mirror_policy": "noindex,follow",
-  "last_static_build": "2026-11-04T22:19:39.780760+00:00",
-  "last_static_deploy": "2026-11-04T22:19:39.780760+00:00",
+  "last_static_build": "2026-11-10T22:29:24.252508+00:00",
+  "last_static_deploy": "2026-11-10T22:29:24.252508+00:00",
   "deploy_status": "DEPLOYED",
-  "run_id": "41924038456",
+  "run_id": "42914686802",
   "asset_paths": [
     "/media/reposnews/automaton-editorial.svg",
     "/media/reposnews/cover-1f0104224074bbf8885c95ce-sm.webp",
@@ -283,6 +289,7 @@
     "/media/reposnews/editorial-kaomei-stickman-video-director.png",
     "/media/reposnews/editorial-letuandat131-whiteboard-animation-vi.png",
     "/media/reposnews/editorial-morluto-rea.png",
+    "/media/reposnews/editorial-mromidev-claude-animated-shorts.png",
     "/media/reposnews/editorial-ndolestudio-httpsms.png",
     "/media/reposnews/editorial-openclaw-openclaw.png",
     "/media/reposnews/editorial-world-monitor-free-geopolitical-intelligence-dashboard.png",
