@@ -7,12 +7,12 @@
   "pages": 111,
   "backend_required": false,
   "schema": 1,
-  "source_revision": "177625bb36fc067ad549ba73e7e1765d22ae7a3165ff8e247c49ce67d3ed33a7",
+  "source_revision": "5a08616acc5b4c799ec4911a0b85288e208be6966abaa7cc4b4c616c88490398",
   "source_commit": "7ef2d86250063d7140afe2005e4ab2e3a5134c50",
   "primary_status": "PRIMARY_PUBLISHED",
   "published_articles_count": 49,
   "request_nonce": "acea2ddc9623023db279e2b5",
-  "source_hash": "177625bb36fc067ad549ba73e7e1765d22ae7a3165ff8e247c49ce67d3ed33a7",
+  "source_hash": "5a08616acc5b4c799ec4911a0b85288e208be6966abaa7cc4b4c616c88490398",
   "articles": [
     {
       "id": "666ghj-mirofish",
@@ -244,7 +244,7 @@
     },
     {
       "id": "mromidev-claude-animated-shorts",
-      "revision": "8011fef11145a72db07958ebfacd57ed1e49aa84f47b160fdd9995b55f7bc928",
+      "revision": "eed0f7e5c59310d04b9d42108f70e3000b932b5d8e5adb20012fb81bb6c654c7",
       "es": "/es/repositorios/mromidev-claude-animated-shorts/",
       "en": "/en/repositories/mromidev-claude-animated-shorts/"
     },
@@ -310,10 +310,10 @@
     }
   ],
   "mirror_policy": "noindex,follow",
-  "last_static_build": "2026-11-11T13:50:50.235284+00:00",
-  "last_static_deploy": "2026-11-11T13:50:50.235284+00:00",
+  "last_static_build": "2026-11-11T13:57:09.636761+00:00",
+  "last_static_deploy": "2026-11-11T13:57:09.636761+00:00",
   "deploy_status": "DEPLOYED",
-  "run_id": "43032276967",
+  "run_id": "43033297202",
   "asset_paths": [
     "/media/reposnews/automaton-editorial.svg",
     "/media/reposnews/editorial-666ghj-mirofish.png",
