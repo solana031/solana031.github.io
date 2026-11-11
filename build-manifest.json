@@ -1,18 +1,18 @@
 {
   "status": "STATIC_HOST_READY",
-  "published_articles": 48,
-  "es": 48,
-  "en": 48,
-  "assets": 58,
-  "pages": 113,
+  "published_articles": 49,
+  "es": 49,
+  "en": 49,
+  "assets": 59,
+  "pages": 115,
   "backend_required": false,
   "schema": 1,
-  "source_revision": "9d53229c2e2107a390b5d7760435e6d00db32fa97a17cf2b452615b76e0ce38d",
+  "source_revision": "d5797c9d093de34750f2149b76f8db5edb07e430193271472b34886b69b7b542",
   "source_commit": "c09560400a53b065395d96974d252a62ed2b62e3",
   "primary_status": "PRIMARY_PUBLISHED",
-  "published_articles_count": 48,
+  "published_articles_count": 49,
   "request_nonce": "acea2ddc9623023db279e2b5",
-  "source_hash": "9d53229c2e2107a390b5d7760435e6d00db32fa97a17cf2b452615b76e0ce38d",
+  "source_hash": "d5797c9d093de34750f2149b76f8db5edb07e430193271472b34886b69b7b542",
   "articles": [
     {
       "id": "666ghj-mirofish",
@@ -279,6 +279,12 @@
       "en": "/en/repositories/remotion/"
     },
     {
+      "id": "remotion-dev-remotion",
+      "revision": "1ee64cdf33ac12950eb8cb102bb39aa77226a9a413ecb7c0c9e121fa6cffe081",
+      "es": "/es/repositorios/remotion-dev-remotion/",
+      "en": "/en/repositories/remotion-dev-remotion/"
+    },
+    {
       "id": "slavingia-skills",
       "revision": "6b64c4377c0eaa32f2f1fa04275ddf36ae5a996653f5514f82649b762c4d0d78",
       "es": "/es/repositorios/slavingia-skills/",
@@ -304,10 +310,10 @@
     }
   ],
   "mirror_policy": "noindex,follow",
-  "last_static_build": "2026-11-11T01:15:53.364502+00:00",
-  "last_static_deploy": "2026-11-11T01:15:53.364502+00:00",
+  "last_static_build": "2026-11-11T01:34:32.574253+00:00",
+  "last_static_deploy": "2026-11-11T01:34:32.574253+00:00",
   "deploy_status": "DEPLOYED",
-  "run_id": "42937376204",
+  "run_id": "42939646939",
   "asset_paths": [
     "/media/reposnews/automaton-editorial.svg",
     "/media/reposnews/cover-182f6215a817eb491fbcce60-sm.webp",
@@ -354,6 +360,7 @@
     "/media/reposnews/editorial-mukul975-anthropic-cybersecurity-skills.png",
     "/media/reposnews/editorial-ndolestudio-httpsms.png",
     "/media/reposnews/editorial-openclaw-openclaw.png",
+    "/media/reposnews/editorial-remotion-dev-remotion.png",
     "/media/reposnews/editorial-slavingia-skills.png",
     "/media/reposnews/editorial-world-monitor-free-geopolitical-intelligence-dashboard.png",
     "/media/reposnews/editorial-yihui-dev-awesome-opus5-5-videos.png",
