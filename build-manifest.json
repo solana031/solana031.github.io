@@ -1,18 +1,18 @@
 {
   "status": "STATIC_HOST_READY",
-  "published_articles": 46,
-  "es": 46,
-  "en": 46,
-  "assets": 57,
-  "pages": 109,
+  "published_articles": 47,
+  "es": 47,
+  "en": 47,
+  "assets": 58,
+  "pages": 111,
   "backend_required": false,
   "schema": 1,
-  "source_revision": "63d99ed45778086d1734a78109fae4b8a824369a9da8d6efcf85c2b2821b7907",
+  "source_revision": "f1fb9803ff3d56c69b35ee9e2b2301a14a1144bd0b4f91efaf2e8eb8855a3a3d",
   "source_commit": "b7ea01158d847d7260a37c2ae7e7c7268f883d45",
   "primary_status": "PRIMARY_PUBLISHED",
-  "published_articles_count": 46,
+  "published_articles_count": 47,
   "request_nonce": "acea2ddc9623023db279e2b5",
-  "source_hash": "63d99ed45778086d1734a78109fae4b8a824369a9da8d6efcf85c2b2821b7907",
+  "source_hash": "f1fb9803ff3d56c69b35ee9e2b2301a14a1144bd0b4f91efaf2e8eb8855a3a3d",
   "articles": [
     {
       "id": "666ghj-mirofish",
@@ -121,6 +121,12 @@
       "revision": "5cfcc0dd3e8fb797aa8c4d1f67097945edf7b2850978bacf79410e64448d2553",
       "es": "/es/repositorios/fastapi/",
       "en": "/en/repositories/fastapi/"
+    },
+    {
+      "id": "flashml-org-freevideo",
+      "revision": "5ac84abe1d8eaf2f2ddf10c0b2117aa5e669c3f1a3f68e83cdb2b14c3bca0861",
+      "es": "/es/repositorios/flashml-org-freevideo/",
+      "en": "/en/repositories/flashml-org-freevideo/"
     },
     {
       "id": "fujiwarachoki-supoclip",
@@ -292,10 +298,10 @@
     }
   ],
   "mirror_policy": "noindex,follow",
-  "last_static_build": "2026-11-11T00:20:31.431193+00:00",
-  "last_static_deploy": "2026-11-11T00:20:31.431193+00:00",
+  "last_static_build": "2026-11-11T00:29:09.599206+00:00",
+  "last_static_deploy": "2026-11-11T00:29:09.599206+00:00",
   "deploy_status": "DEPLOYED",
-  "run_id": "42930247412",
+  "run_id": "42931385048",
   "asset_paths": [
     "/media/reposnews/automaton-editorial.svg",
     "/media/reposnews/cover-182f6215a817eb491fbcce60-sm.webp",
@@ -323,6 +329,7 @@
     "/media/reposnews/editorial-digitalplatdev-freedomain.png",
     "/media/reposnews/editorial-edenfunf-reelmimic.png",
     "/media/reposnews/editorial-every-app-open-seo.png",
+    "/media/reposnews/editorial-flashml-org-freevideo.png",
     "/media/reposnews/editorial-fujiwarachoki-supoclip.png",
     "/media/reposnews/editorial-gamedev-skills-awesome-gamedev-agent-skills.png",
     "/media/reposnews/editorial-gitroomhq-postiz-app.png",
