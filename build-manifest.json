@@ -7,12 +7,12 @@
   "pages": 111,
   "backend_required": false,
   "schema": 1,
-  "source_revision": "5a08616acc5b4c799ec4911a0b85288e208be6966abaa7cc4b4c616c88490398",
+  "source_revision": "c79ab630eabda665e8a3e7b62c914b5f292c1868d3ffcb3517a36c2d44471a42",
   "source_commit": "7ef2d86250063d7140afe2005e4ab2e3a5134c50",
   "primary_status": "PRIMARY_PUBLISHED",
   "published_articles_count": 49,
   "request_nonce": "acea2ddc9623023db279e2b5",
-  "source_hash": "5a08616acc5b4c799ec4911a0b85288e208be6966abaa7cc4b4c616c88490398",
+  "source_hash": "c79ab630eabda665e8a3e7b62c914b5f292c1868d3ffcb3517a36c2d44471a42",
   "articles": [
     {
       "id": "666ghj-mirofish",
@@ -76,7 +76,7 @@
     },
     {
       "id": "cth9191-animate",
-      "revision": "2fe60b31ea5a6f532a27d7edcfc22c35c4ea96e2c420f1892ff4baf62b032140",
+      "revision": "6087787a39ee65a2b906d36813d2e5c62299973d566501faf4ac059fe9de02ac",
       "es": "/es/repositorios/cth9191-animate/",
       "en": "/en/repositories/cth9191-animate/"
     },
@@ -310,10 +310,10 @@
     }
   ],
   "mirror_policy": "noindex,follow",
-  "last_static_build": "2026-11-11T13:57:09.636761+00:00",
-  "last_static_deploy": "2026-11-11T13:57:09.636761+00:00",
+  "last_static_build": "2026-11-11T14:29:17.273535+00:00",
+  "last_static_deploy": "2026-11-11T14:29:17.273535+00:00",
   "deploy_status": "DEPLOYED",
-  "run_id": "43033297202",
+  "run_id": "43038289427",
   "asset_paths": [
     "/media/reposnews/automaton-editorial.svg",
     "/media/reposnews/editorial-666ghj-mirofish.png",
