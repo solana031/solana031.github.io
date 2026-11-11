@@ -1,18 +1,18 @@
 {
   "status": "STATIC_HOST_READY",
-  "published_articles": 45,
-  "es": 45,
-  "en": 45,
-  "assets": 56,
-  "pages": 107,
+  "published_articles": 46,
+  "es": 46,
+  "en": 46,
+  "assets": 57,
+  "pages": 109,
   "backend_required": false,
   "schema": 1,
-  "source_revision": "a5ea96ed9613cf8334efe5884492a1ea6f9f461fd03d82a93a5edea7cd23ed47",
+  "source_revision": "63d99ed45778086d1734a78109fae4b8a824369a9da8d6efcf85c2b2821b7907",
   "source_commit": "b7ea01158d847d7260a37c2ae7e7c7268f883d45",
   "primary_status": "PRIMARY_PUBLISHED",
-  "published_articles_count": 45,
+  "published_articles_count": 46,
   "request_nonce": "acea2ddc9623023db279e2b5",
-  "source_hash": "a5ea96ed9613cf8334efe5884492a1ea6f9f461fd03d82a93a5edea7cd23ed47",
+  "source_hash": "63d99ed45778086d1734a78109fae4b8a824369a9da8d6efcf85c2b2821b7907",
   "articles": [
     {
       "id": "666ghj-mirofish",
@@ -207,6 +207,12 @@
       "en": "/en/repositories/jev/"
     },
     {
+      "id": "kalil0321-reverse-api-engineer",
+      "revision": "c749c9c1dbab725b3c00ce6e8b8deec2954b20ec7759d4bdf14863fec2669f83",
+      "es": "/es/repositorios/kalil0321-reverse-api-engineer/",
+      "en": "/en/repositories/kalil0321-reverse-api-engineer/"
+    },
+    {
       "id": "kaomei-stickman-video-director",
       "revision": "908a624487d97883350a47e2147f96c09a2d8c1d1c034da3f7645f4fd90f93db",
       "es": "/es/repositorios/kaomei-stickman-video-director/",
@@ -286,10 +292,10 @@
     }
   ],
   "mirror_policy": "noindex,follow",
-  "last_static_build": "2026-11-10T23:35:46.314749+00:00",
-  "last_static_deploy": "2026-11-10T23:35:46.314749+00:00",
+  "last_static_build": "2026-11-11T00:20:31.431193+00:00",
+  "last_static_deploy": "2026-11-11T00:20:31.431193+00:00",
   "deploy_status": "DEPLOYED",
-  "run_id": "42924283660",
+  "run_id": "42930247412",
   "asset_paths": [
     "/media/reposnews/automaton-editorial.svg",
     "/media/reposnews/cover-182f6215a817eb491fbcce60-sm.webp",
@@ -327,6 +333,7 @@
     "/media/reposnews/editorial-hypit-ai-hypit.png",
     "/media/reposnews/editorial-immortaldemongod-money-agent.png",
     "/media/reposnews/editorial-jakeschincariol-youtube-agent-skill.png",
+    "/media/reposnews/editorial-kalil0321-reverse-api-engineer.png",
     "/media/reposnews/editorial-kaomei-stickman-video-director.png",
     "/media/reposnews/editorial-letuandat131-whiteboard-animation-vi.png",
     "/media/reposnews/editorial-morluto-rea.png",
