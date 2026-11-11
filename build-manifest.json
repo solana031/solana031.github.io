@@ -7,12 +7,12 @@
   "pages": 111,
   "backend_required": false,
   "schema": 1,
-  "source_revision": "c2e6939a249cc7d37aef6b493f1f1a3ff2330be2bd0f778efde86aa0f9095a64",
+  "source_revision": "3c308ce4092e2ea5052f8d999a3300d89a6a6bf64fe1d34cc6b51a1a0b3ddd52",
   "source_commit": "7ef2d86250063d7140afe2005e4ab2e3a5134c50",
   "primary_status": "PRIMARY_PUBLISHED",
   "published_articles_count": 49,
   "request_nonce": "acea2ddc9623023db279e2b5",
-  "source_hash": "c2e6939a249cc7d37aef6b493f1f1a3ff2330be2bd0f778efde86aa0f9095a64",
+  "source_hash": "3c308ce4092e2ea5052f8d999a3300d89a6a6bf64fe1d34cc6b51a1a0b3ddd52",
   "articles": [
     {
       "id": "666ghj-mirofish",
@@ -82,7 +82,7 @@
     },
     {
       "id": "debpalash-voicestudio",
-      "revision": "40413befdd5ae448314eb359600aebf4b83c02a5bdd64efea527241e8d6dde34",
+      "revision": "37e0b0240d84ef6414b2b0f7e32b3def28b4948f8f49cc533d45fb56e95b9828",
       "es": "/es/repositorios/debpalash-voicestudio/",
       "en": "/en/repositories/debpalash-voicestudio/"
     },
@@ -310,10 +310,10 @@
     }
   ],
   "mirror_policy": "noindex,follow",
-  "last_static_build": "2026-11-11T14:34:57.433528+00:00",
-  "last_static_deploy": "2026-11-11T14:34:57.433528+00:00",
+  "last_static_build": "2026-11-11T14:52:54.029781+00:00",
+  "last_static_deploy": "2026-11-11T14:52:54.029781+00:00",
   "deploy_status": "DEPLOYED",
-  "run_id": "43039304739",
+  "run_id": "43042176349",
   "asset_paths": [
     "/media/reposnews/automaton-editorial.svg",
     "/media/reposnews/editorial-666ghj-mirofish.png",
