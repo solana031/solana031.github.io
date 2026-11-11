@@ -7,12 +7,12 @@
   "pages": 111,
   "backend_required": false,
   "schema": 1,
-  "source_revision": "bc349f7cb474ed411efd977d6dbce26c8b908475e4f49288907b953b23dab354",
+  "source_revision": "1cab088fbb47d835b15c1814f56d3ba1f77656b3635d4c265ef952b7e6d015af",
   "source_commit": "eee3da4fdef6e6ec0089999d8ca89689ac9a885a",
   "primary_status": "PRIMARY_PUBLISHED",
   "published_articles_count": 49,
   "request_nonce": "acea2ddc9623023db279e2b5",
-  "source_hash": "bc349f7cb474ed411efd977d6dbce26c8b908475e4f49288907b953b23dab354",
+  "source_hash": "1cab088fbb47d835b15c1814f56d3ba1f77656b3635d4c265ef952b7e6d015af",
   "articles": [
     {
       "id": "666ghj-mirofish",
@@ -148,7 +148,7 @@
     },
     {
       "id": "genex-games-genex-desktop",
-      "revision": "2efa299ebc630e219ee966bcbda2d9f04139638ba4375a87ce0c3d79162987f5",
+      "revision": "a4bc7658cb5d06cf804dd5c1cf25696566b55d507987c63972a34db4f17622d2",
       "es": "/es/repositorios/genex-games-genex-desktop/",
       "en": "/en/repositories/genex-games-genex-desktop/"
     },
@@ -310,10 +310,10 @@
     }
   ],
   "mirror_policy": "noindex,follow",
-  "last_static_build": "2026-11-11T13:19:55.523968+00:00",
-  "last_static_deploy": "2026-11-11T13:19:55.523968+00:00",
+  "last_static_build": "2026-11-11T13:29:09.130231+00:00",
+  "last_static_deploy": "2026-11-11T13:29:09.130231+00:00",
   "deploy_status": "DEPLOYED",
-  "run_id": "43027567736",
+  "run_id": "43028892874",
   "asset_paths": [
     "/media/reposnews/automaton-editorial.svg",
     "/media/reposnews/editorial-666ghj-mirofish.png",
