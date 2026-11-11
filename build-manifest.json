@@ -7,12 +7,12 @@
   "pages": 111,
   "backend_required": false,
   "schema": 1,
-  "source_revision": "1cab088fbb47d835b15c1814f56d3ba1f77656b3635d4c265ef952b7e6d015af",
-  "source_commit": "eee3da4fdef6e6ec0089999d8ca89689ac9a885a",
+  "source_revision": "177625bb36fc067ad549ba73e7e1765d22ae7a3165ff8e247c49ce67d3ed33a7",
+  "source_commit": "7ef2d86250063d7140afe2005e4ab2e3a5134c50",
   "primary_status": "PRIMARY_PUBLISHED",
   "published_articles_count": 49,
   "request_nonce": "acea2ddc9623023db279e2b5",
-  "source_hash": "1cab088fbb47d835b15c1814f56d3ba1f77656b3635d4c265ef952b7e6d015af",
+  "source_hash": "177625bb36fc067ad549ba73e7e1765d22ae7a3165ff8e247c49ce67d3ed33a7",
   "articles": [
     {
       "id": "666ghj-mirofish",
@@ -64,7 +64,7 @@
     },
     {
       "id": "chatcut-inc-agent-plugin",
-      "revision": "93040a96fba426ee379e1e197e3a6cfa30624d667335e09f108ca705556aeb4c",
+      "revision": "f2a60dc0836a9a64fe7c12dbe62239c60c1a6fb2b6d38d72b170ca17fe1eae3e",
       "es": "/es/repositorios/chatcut-inc-agent-plugin/",
       "en": "/en/repositories/chatcut-inc-agent-plugin/"
     },
@@ -154,7 +154,7 @@
     },
     {
       "id": "gitroomhq-postiz-app",
-      "revision": "b14cc71a5aec416552a0bae2005808df01028f7f113e52b61ebfb927aa386a7f",
+      "revision": "7fb98e304254e7fc995feeff7cc1792e7061335d0e82435c02c9e0501f74473c",
       "es": "/es/repositorios/gitroomhq-postiz-app/",
       "en": "/en/repositories/gitroomhq-postiz-app/"
     },
@@ -220,7 +220,7 @@
     },
     {
       "id": "kaomei-stickman-video-director",
-      "revision": "908a624487d97883350a47e2147f96c09a2d8c1d1c034da3f7645f4fd90f93db",
+      "revision": "01c605f376faab20a801dc1b8da345bb92b14f766f43e8042450b76b6b268311",
       "es": "/es/repositorios/kaomei-stickman-video-director/",
       "en": "/en/repositories/kaomei-stickman-video-director/"
     },
@@ -310,10 +310,10 @@
     }
   ],
   "mirror_policy": "noindex,follow",
-  "last_static_build": "2026-11-11T13:29:09.130231+00:00",
-  "last_static_deploy": "2026-11-11T13:29:09.130231+00:00",
+  "last_static_build": "2026-11-11T13:50:50.235284+00:00",
+  "last_static_deploy": "2026-11-11T13:50:50.235284+00:00",
   "deploy_status": "DEPLOYED",
-  "run_id": "43028892874",
+  "run_id": "43032276967",
   "asset_paths": [
     "/media/reposnews/automaton-editorial.svg",
     "/media/reposnews/editorial-666ghj-mirofish.png",
