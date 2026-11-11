@@ -7,12 +7,12 @@
   "pages": 113,
   "backend_required": false,
   "schema": 1,
-  "source_revision": "3b879ca8dd77e4d850b6be6e920c20ce3bfef405b2c5fc85b57fa5207cadc533",
-  "source_commit": "1bf718029871f9d0ae990ae0134326fb71b9c8b0",
+  "source_revision": "9d53229c2e2107a390b5d7760435e6d00db32fa97a17cf2b452615b76e0ce38d",
+  "source_commit": "c09560400a53b065395d96974d252a62ed2b62e3",
   "primary_status": "PRIMARY_PUBLISHED",
   "published_articles_count": 48,
   "request_nonce": "acea2ddc9623023db279e2b5",
-  "source_hash": "3b879ca8dd77e4d850b6be6e920c20ce3bfef405b2c5fc85b57fa5207cadc533",
+  "source_hash": "9d53229c2e2107a390b5d7760435e6d00db32fa97a17cf2b452615b76e0ce38d",
   "articles": [
     {
       "id": "666ghj-mirofish",
@@ -58,7 +58,7 @@
     },
     {
       "id": "calesthio-openmontage",
-      "revision": "cb5e00d39917de32aa2329424eaa1756666173cacb0fb94b32ac785ede56823e",
+      "revision": "0774fac6f5fe7837385d6a066b21c62e1703e061c2ed96d1d60018554b120c3e",
       "es": "/es/repositorios/calesthio-openmontage/",
       "en": "/en/repositories/calesthio-openmontage/"
     },
@@ -304,10 +304,10 @@
     }
   ],
   "mirror_policy": "noindex,follow",
-  "last_static_build": "2026-11-11T00:39:18.630191+00:00",
-  "last_static_deploy": "2026-11-11T00:39:18.630191+00:00",
+  "last_static_build": "2026-11-11T01:15:53.364502+00:00",
+  "last_static_deploy": "2026-11-11T01:15:53.364502+00:00",
   "deploy_status": "DEPLOYED",
-  "run_id": "42932564857",
+  "run_id": "42937376204",
   "asset_paths": [
     "/media/reposnews/automaton-editorial.svg",
     "/media/reposnews/cover-182f6215a817eb491fbcce60-sm.webp",
