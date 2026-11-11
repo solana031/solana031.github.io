@@ -7,12 +7,12 @@
   "pages": 111,
   "backend_required": false,
   "schema": 1,
-  "source_revision": "c79ab630eabda665e8a3e7b62c914b5f292c1868d3ffcb3517a36c2d44471a42",
+  "source_revision": "c2e6939a249cc7d37aef6b493f1f1a3ff2330be2bd0f778efde86aa0f9095a64",
   "source_commit": "7ef2d86250063d7140afe2005e4ab2e3a5134c50",
   "primary_status": "PRIMARY_PUBLISHED",
   "published_articles_count": 49,
   "request_nonce": "acea2ddc9623023db279e2b5",
-  "source_hash": "c79ab630eabda665e8a3e7b62c914b5f292c1868d3ffcb3517a36c2d44471a42",
+  "source_hash": "c2e6939a249cc7d37aef6b493f1f1a3ff2330be2bd0f778efde86aa0f9095a64",
   "articles": [
     {
       "id": "666ghj-mirofish",
@@ -238,7 +238,7 @@
     },
     {
       "id": "morluto-rea",
-      "revision": "07ae44fe4210b369f1784b2d5034eba55fa5d97f166cb900d86dfa754a7b7295",
+      "revision": "3e4a086f87e8883aa90b35febe94d26b4d79d98b88fdf199a48df2e19b61609c",
       "es": "/es/repositorios/morluto-rea/",
       "en": "/en/repositories/morluto-rea/"
     },
@@ -310,10 +310,10 @@
     }
   ],
   "mirror_policy": "noindex,follow",
-  "last_static_build": "2026-11-11T14:29:17.273535+00:00",
-  "last_static_deploy": "2026-11-11T14:29:17.273535+00:00",
+  "last_static_build": "2026-11-11T14:34:57.433528+00:00",
+  "last_static_deploy": "2026-11-11T14:34:57.433528+00:00",
   "deploy_status": "DEPLOYED",
-  "run_id": "43038289427",
+  "run_id": "43039304739",
   "asset_paths": [
     "/media/reposnews/automaton-editorial.svg",
     "/media/reposnews/editorial-666ghj-mirofish.png",
