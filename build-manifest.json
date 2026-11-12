@@ -7,12 +7,12 @@
   "pages": 111,
   "backend_required": false,
   "schema": 1,
-  "source_revision": "3c308ce4092e2ea5052f8d999a3300d89a6a6bf64fe1d34cc6b51a1a0b3ddd52",
+  "source_revision": "061c7125a104f79176d3660f0e2f4b710821f1860e21d951c882043ce129a4bf",
   "source_commit": "7ef2d86250063d7140afe2005e4ab2e3a5134c50",
   "primary_status": "PRIMARY_PUBLISHED",
   "published_articles_count": 49,
   "request_nonce": "acea2ddc9623023db279e2b5",
-  "source_hash": "3c308ce4092e2ea5052f8d999a3300d89a6a6bf64fe1d34cc6b51a1a0b3ddd52",
+  "source_hash": "061c7125a104f79176d3660f0e2f4b710821f1860e21d951c882043ce129a4bf",
   "articles": [
     {
       "id": "666ghj-mirofish",
@@ -280,7 +280,7 @@
     },
     {
       "id": "remotion-dev-remotion",
-      "revision": "1ee64cdf33ac12950eb8cb102bb39aa77226a9a413ecb7c0c9e121fa6cffe081",
+      "revision": "eafa340f60ba06c32b8097addb55a4e737a74e7cf8cf5c3bfeb2a70bb7a4b531",
       "es": "/es/repositorios/remotion-dev-remotion/",
       "en": "/en/repositories/remotion-dev-remotion/"
     },
@@ -310,10 +310,10 @@
     }
   ],
   "mirror_policy": "noindex,follow",
-  "last_static_build": "2026-11-11T14:52:54.029781+00:00",
-  "last_static_deploy": "2026-11-11T14:52:54.029781+00:00",
+  "last_static_build": "2026-11-12T11:17:38.554332+00:00",
+  "last_static_deploy": "2026-11-12T11:17:38.554332+00:00",
   "deploy_status": "DEPLOYED",
-  "run_id": "43042176349",
+  "run_id": "43207528031",
   "asset_paths": [
     "/media/reposnews/automaton-editorial.svg",
     "/media/reposnews/editorial-666ghj-mirofish.png",
